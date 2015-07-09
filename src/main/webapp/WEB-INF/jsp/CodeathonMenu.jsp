@@ -16,15 +16,15 @@
 <h2> Menu</h2>
 <br>
 Edit your contact information
-<button type"button"> Profile </button>
+<a class="btn btn-warning" href="profile">Profile</a>
 <br>
 <br>
 Book a trip and show purchased trips
-<button type"button"> My Trips </button>
+<a class="btn btn-success" href="my-trips">My Trips</a>
 <br>
 <br>
 Store payment method and show receipts
-<button type"button"> Wallet </button>
+<a class="btn btn-warning" href="wallet">Wallet</a>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 </body>
 </html>
