@@ -72,5 +72,7 @@
     <orderEntry type="library" scope="TEST" name="Gradle: org.springframework:spring-test:4.1.7.RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.objenesis:objenesis:2.1" level="project" />
     <orderEntry type="library" exported="" name="Gradle: javax.servlet:jstl:1.2" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.apache.tomcat.embed:tomcat-embed-jasper:8.0.23" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.eclipse.jdt.core.compiler:ecj:4.4.2" level="project" />
   </component>
 </module>

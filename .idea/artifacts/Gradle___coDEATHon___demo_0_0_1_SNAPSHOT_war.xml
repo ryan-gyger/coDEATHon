@@ -45,6 +45,8 @@
           <element id="library" level="project" name="Gradle: org.slf4j:slf4j-api:1.7.12" />
           <element id="library" level="project" name="Gradle: mysql:mysql-connector-java:5.1.35" />
           <element id="library" level="project" name="Gradle: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Gradle: org.apache.tomcat.embed:tomcat-embed-jasper:8.0.23" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jdt.core.compiler:ecj:4.4.2" />
         </element>
       </element>
       <element id="directory" name="META-INF">
